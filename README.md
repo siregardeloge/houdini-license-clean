@@ -43,3 +43,5 @@ Validates license keys.
 ## Deployment
 
 Deploy to Vercel by connecting this repository. No configuration needed!
+
+**Last updated:** 2025-07-18 14:40
